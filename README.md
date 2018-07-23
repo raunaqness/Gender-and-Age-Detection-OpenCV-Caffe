@@ -1,4 +1,4 @@
-A simple Python Script that uses a pre-trained Caffee Model to Predict Age and Gender.
+# A simple Python Script that uses a pre-trained Caffee Model to Predict Age and Gender.
 
 Requirements
 -----------
